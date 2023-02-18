@@ -9,6 +9,10 @@ header {
     font-family: 'Abril Fatface';
 }
 
+h5 {
+    color: #dd3232
+}
+
 .newspaper-container {
     background-color: white;
     box-shadow: #ddd;
@@ -18,7 +22,7 @@ header {
     box-shadow: 1px 1px;
 }
 
-.section {
+h2, h4 {
     font-family: 'Roboto Slab';
 }
 
